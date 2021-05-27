@@ -4,3 +4,4 @@ if user_input <= 50:
     price = 4000
 
 print('Your wedding will cost '+str(price)+' dollars')
+
